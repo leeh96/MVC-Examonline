@@ -1,0 +1,10 @@
+F:\大学课程作业\onlinetest\Model\bin\Debug\Model.dll
+F:\大学课程作业\onlinetest\Model\bin\Debug\Model.pdb
+F:\大学课程作业\onlinetest\Model\obj\Debug\Model.dll
+F:\大学课程作业\onlinetest\Model\obj\Debug\Model.pdb
+F:\大学课程作业\onlinetest\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+F:\大学课程作业\孟\onlinetest\Model\bin\Debug\Model.dll
+F:\大学课程作业\孟\onlinetest\Model\bin\Debug\Model.pdb
+F:\大学课程作业\孟\onlinetest\Model\obj\Debug\Model.dll
+F:\大学课程作业\孟\onlinetest\Model\obj\Debug\Model.pdb
+F:\大学课程作业\孟\onlinetest\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache

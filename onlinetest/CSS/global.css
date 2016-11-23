@@ -1,0 +1,62 @@
+﻿@charset "utf-8";
+/* CSS Document */
+body {
+    background-image: url('../Images/gg.jpg');
+    background-repeat: no-repeat;
+    width: 1280px;
+    height: 680px;
+    /*overflow: scroll;
+    overflow-y: hidden;
+    overflow-x: hidden;*/
+    background-position-x: center;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body, input, select {
+    font: 18px/28px 宋体;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+img {
+    border: 0;
+    vertical-align: middle;
+}
+
+ul {
+    list-style: none;
+}
+#intro {
+      
+    
+    width:200px;
+    float:left;
+}
+  #container {
+            margin-left: 89px;
+            width: 1280px;
+            height: 600px;
+              margin-top:100px; 
+   overflow:hidden;
+        }
+
+
+#top {
+    margin-left:700px;
+  margin-top:60px;
+            color:#fff;
+}
+a {
+    color: #0072A7;
+    text-decoration: underline;
+}
+
+    a:hover {
+        color: #f00;
+    }

@@ -1,0 +1,14 @@
+F:\大学课程作业\onlinetest\DAL\bin\Debug\DAL.dll
+F:\大学课程作业\onlinetest\DAL\bin\Debug\DAL.pdb
+F:\大学课程作业\onlinetest\DAL\bin\Debug\Model.dll
+F:\大学课程作业\onlinetest\DAL\bin\Debug\Model.pdb
+F:\大学课程作业\onlinetest\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\大学课程作业\onlinetest\DAL\obj\Debug\DAL.dll
+F:\大学课程作业\onlinetest\DAL\obj\Debug\DAL.pdb
+F:\大学课程作业\孟\onlinetest\DAL\bin\Debug\DAL.dll
+F:\大学课程作业\孟\onlinetest\DAL\bin\Debug\DAL.pdb
+F:\大学课程作业\孟\onlinetest\DAL\bin\Debug\Model.dll
+F:\大学课程作业\孟\onlinetest\DAL\bin\Debug\Model.pdb
+F:\大学课程作业\孟\onlinetest\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\大学课程作业\孟\onlinetest\DAL\obj\Debug\DAL.dll
+F:\大学课程作业\孟\onlinetest\DAL\obj\Debug\DAL.pdb

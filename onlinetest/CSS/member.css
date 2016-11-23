@@ -1,0 +1,42 @@
+﻿.auto-style1 {
+    height: 22px;
+    border-style: double;
+    border-width: inherit;
+    border-color: #0066CC;
+}
+
+#query {
+    width: 84px;
+    background-color: #3366FF;
+    font-size: large;
+    color: #FFFFFF;
+}
+
+#jiansuo {
+    width: auto;
+    height: auto;
+    float: left;
+}
+
+#tianjia {
+    float: right;
+    background-color: #fff;
+    color: #FFFFFF;
+    height: 24px;
+    width: 75px;
+}
+
+.data_table {
+    border-style: double;
+    border-width: inherit;
+    border-color: #0066CC;
+    text-align: center;
+    width: 800px;
+    height: auto;
+}
+    .data_table td {
+        height:50px;
+    }
+#fenye {
+    text-align: center;
+}

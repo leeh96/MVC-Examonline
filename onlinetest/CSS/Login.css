@@ -1,0 +1,63 @@
+﻿body {
+    background-image: url('../../Images/login-bg.jpg');
+    background-repeat: no-repeat;
+    background-position-x: center;
+    width: auto;
+    height: auto;
+}
+
+#RightDL {
+    position: relative;
+    width: auto;
+    height: 500px;
+    top: 180px;
+    left: 850px;
+    background-image: url('../../Images/login.jpg');
+    background-repeat: no-repeat;
+}
+
+#DLform {
+    padding-top: 80px;
+    padding-left: 38px;
+    height: 141px;
+    width: 270px;
+    text-align: center;
+}
+
+#DL_xz {
+    border-style: none;
+    border-width: 0px;
+    border-color: inherit;
+    width: 270px;
+    height: 30px;
+    text-align: center;
+    border-spacing: 0px;
+    border-collapse: collapse;
+}
+
+    #DL_xz img {
+        height: inherit;
+        width: 90px;
+    }
+
+#DL_sr {
+    margin-top: 20px;
+    margin-left: 40px;
+}
+
+.form_sub {
+    text-align: left;
+    font-size: small;
+   
+}
+.form_login {
+     background-image: url('../../Images/denglu.jpg');
+    width: 264px;
+    height: 44px;
+    border: hidden;
+}
+
+.opt_input {
+    width: 150px;
+    height: 20px;
+}

@@ -1,0 +1,65 @@
+﻿<%@ Master Language="C#" Inherits="System.Web.Mvc.ViewMasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <%--    <meta name="viewport" content="width=device-width" />--%>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <script src="/jquery-1.11.1.js"></script>
+    <link href="/jquery.lightbox-0.5.css" rel="stylesheet" />
+    <script src="/jquery.lightbox-0.5.min.js"></script>
+    <asp:ContentPlaceHolder ID="TitleContent" runat="server" />
+
+    <link href="<%= Url.Content("~/Css/global.css") %>" rel="stylesheet" type="text/css" />
+    <title></title>
+    
+</head>
+<body>
+
+    <div id="top">
+       <%if (Session["CurrentUser"] != null)
+  {  
+      %>
+      您好，<a href="<% =Url.Content("~/Stu/Update")%>"><%=Session["UserName"].ToString()%> </a>      <a href="<% =Url.Content("~/Home/Index")%>">【注销】</a><a href="<% =Url.Content("~/Stu/Index")%>">【返回】</a><a href="<% =Url.Content("~/Stu/ModifyStuPaw")%>">【修改密码】</a>
+<%
+  }%>
+  <%=DateTime.Now.ToString("yyyy-MM-dd")%>
+
+    </div>
+    <div id="header">
+    </div>
+    <!--left content-->
+    <div id="container" >
+    <div id="intro">
+        <div style="left: 100px; top: 180px; float:left">
+            <div style="margin-top: 15px">
+                <img src="../Images/成绩.png" />
+            </div>
+            <div style="margin-top: 15px">
+                <img src="../Images/考试.png" />
+            </div>
+            <div style="margin-top: 15px">
+                <img src="../Images/题目.png" />
+            </div>
+            <div style="margin-top: 15px">
+                <img src="../Images/用户.png" />
+            </div>
+           
+        </div>
+        
+           
+
+        </div>
+
+        <div style="width:auto;height:auto;margin-left:300px;">
+             <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </div>
+
+    <div id="footer">
+        <!--contac us-->
+    </div>
+</body>
+</html>
